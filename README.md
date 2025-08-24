@@ -1,6 +1,6 @@
 # CalendarGPT
 
-A smart calendar assistant that can extract text from PDFs and images, then create Google Calendar events based on the extracted information.
+An AI assistant that can extract text from PDFs and images, then create Google Calendar events based on the extracted information.
 
 ## Features
 
